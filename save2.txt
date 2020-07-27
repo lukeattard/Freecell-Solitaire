@@ -1,0 +1,22 @@
+pnlTableau1,C3,DJ,S5,C9,D2,S4
+pnlTableau2,DA,S2,H10,CQ,SA
+pnlTableau3,DQ,S6,C5,H8,C4,SJ,HK
+pnlTableau4,D4,H7,SQ,H2
+pnlTableau5,D6,D3,D10,S8,S10,D8,S7,H6
+pnlTableau6,D5,HQ,SK,C7,S3,C6
+pnlTableau7,C8,HA,D9,S9,HJ,C10
+pnlTableau8,CK,H4,CJ,H5,DK,H3
+pnlFreeCell1
+pnlFreeCell2,H9
+pnlFreeCell3,D7
+pnlFreeCell4
+pnlHomeCell1,CA,C2
+pnlHomeCell2
+pnlHomeCell3
+pnlHomeCell4
+initialState,C3,DJ,S5,C9,D2,S4,D7,DA,S2,H10,CQ,SA,H9,C2,DQ,S6,C5,H8,C4,SJ,HK,D4,H7,SQ,H2,C10,H6,CA,D6,D3,D10,S8,S10,D8,D5,HQ,SK,C7,S3,C6,C8,HA,D9,S9,HJ,S7,CK,H4,CJ,H5,DK,H3
+cardMoves,CA -> pnlHomeCell1,C2 -> CA -> pnlHomeCell1,S7 -> D8 -> pnlTableau5,H6 -> S7 -> pnlTableau5,C10 -> HJ -> pnlTableau7,H9 -> pnlFreeCell2,D7 -> pnlFreeCell3
+numebrOfMoves,7
+interval,40
+minutes,00
+seconds,40

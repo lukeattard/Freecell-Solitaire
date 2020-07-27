@@ -1,0 +1,22 @@
+pnlTableau1,S5,S7,H3,S8,D4,C4,D5
+pnlTableau2,DK,C3,C7,CA,CJ,HK,HQ
+pnlTableau3,S10,D7,S6,DQ,CQ,D10,HJ
+pnlTableau4,DJ,S2,CK,H9,H6,C2,D9
+pnlTableau5,D8,D3,C8,C5,S3,SK
+pnlTableau6,H7,SQ,S9,C9,H4,H10
+pnlTableau7,H8,SA,C10
+pnlTableau8,D6
+pnlFreeCell1,H5
+pnlFreeCell2,S4
+pnlFreeCell3,C6
+pnlFreeCell4,SJ
+pnlHomeCell1,DA,D2
+pnlHomeCell2,HA,H2
+pnlHomeCell3
+pnlHomeCell4
+initialState,S5,S7,H3,S8,D4,C4,D5,DK,C3,C7,CA,CJ,HK,HQ,S10,D7,S6,DQ,CQ,D10,HJ,DJ,S2,CK,H9,H6,C2,D9,D8,D3,C8,C5,S3,SK,H7,SQ,S9,C9,H4,H10,H8,SA,C10,D6,HA,DA,D2,H5,S4,H2,C6,SJ
+cardMoves,DA -> pnlHomeCell1,HA -> pnlHomeCell2,SJ -> pnlFreeCell4,C6 -> pnlFreeCell3,H2 -> HA -> pnlHomeCell2,S4 -> pnlFreeCell2,H5 -> pnlFreeCell1,D2 -> DA -> pnlHomeCell1,D6 -> pnlTableau8
+numebrOfMoves,9
+interval,23
+minutes,00
+seconds,23

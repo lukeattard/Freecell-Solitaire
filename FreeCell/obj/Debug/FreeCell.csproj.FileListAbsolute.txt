@@ -1,0 +1,210 @@
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\ISCG6421_assignment2_starter-V2\FreeCell\obj\Debug\FreeCell.csprojAssemblyReference.cache
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\ISCG6421_assignment2_starter-V2\FreeCell\obj\Debug\FreeCell.MainForm.resources
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\ISCG6421_assignment2_starter-V2\FreeCell\obj\Debug\Card1.Properties.Resources.resources
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\ISCG6421_assignment2_starter-V2\FreeCell\obj\Debug\FreeCell.csproj.GenerateResource.cache
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\ISCG6421_assignment2_starter-V2\FreeCell\bin\Debug\Card1.exe.config
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\ISCG6421_assignment2_starter-V2\FreeCell\bin\Debug\Card1.exe.manifest
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\ISCG6421_assignment2_starter-V2\FreeCell\bin\Debug\Card1.application
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\ISCG6421_assignment2_starter-V2\FreeCell\bin\Debug\Card1.exe
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\ISCG6421_assignment2_starter-V2\FreeCell\bin\Debug\Card1.pdb
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\ISCG6421_assignment2_starter-V2\FreeCell\obj\Debug\FreeCell.csproj.CoreCompileInputs.cache
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\ISCG6421_assignment2_starter-V2\FreeCell\obj\Debug\Card1.exe.manifest
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\ISCG6421_assignment2_starter-V2\FreeCell\obj\Debug\Card1.application
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\ISCG6421_assignment2_starter-V2\FreeCell\obj\Debug\Card1.exe
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\ISCG6421_assignment2_starter-V2\FreeCell\obj\Debug\Card1.pdb
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\ISCG6421_assignment2_starter-V2-ByPonhvathVann\FreeCell\bin\Debug\Card1.exe.config
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\ISCG6421_assignment2_starter-V2-ByPonhvathVann\FreeCell\bin\Debug\Card1.exe.manifest
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\ISCG6421_assignment2_starter-V2-ByPonhvathVann\FreeCell\bin\Debug\Card1.application
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\ISCG6421_assignment2_starter-V2-ByPonhvathVann\FreeCell\bin\Debug\Card1.exe
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\ISCG6421_assignment2_starter-V2-ByPonhvathVann\FreeCell\bin\Debug\Card1.pdb
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\ISCG6421_assignment2_starter-V2-ByPonhvathVann\FreeCell\obj\Debug\FreeCell.csprojAssemblyReference.cache
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\ISCG6421_assignment2_starter-V2-ByPonhvathVann\FreeCell\obj\Debug\FreeCell.MainForm.resources
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\ISCG6421_assignment2_starter-V2-ByPonhvathVann\FreeCell\obj\Debug\Card1.Properties.Resources.resources
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\ISCG6421_assignment2_starter-V2-ByPonhvathVann\FreeCell\obj\Debug\FreeCell.csproj.GenerateResource.cache
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\ISCG6421_assignment2_starter-V2-ByPonhvathVann\FreeCell\obj\Debug\FreeCell.csproj.CoreCompileInputs.cache
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\ISCG6421_assignment2_starter-V2-ByPonhvathVann\FreeCell\obj\Debug\Card1.exe.manifest
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\ISCG6421_assignment2_starter-V2-ByPonhvathVann\FreeCell\obj\Debug\Card1.application
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\ISCG6421_assignment2_starter-V2-ByPonhvathVann\FreeCell\obj\Debug\Card1.exe
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\ISCG6421_assignment2_starter-V2-ByPonhvathVann\FreeCell\obj\Debug\Card1.pdb
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\ISCG6421_assignment2_starter-V3-ByPonhvathVann\FreeCell\bin\Debug\Card1.exe.config
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\ISCG6421_assignment2_starter-V3-ByPonhvathVann\FreeCell\bin\Debug\Card1.exe.manifest
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\ISCG6421_assignment2_starter-V3-ByPonhvathVann\FreeCell\bin\Debug\Card1.application
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\ISCG6421_assignment2_starter-V3-ByPonhvathVann\FreeCell\bin\Debug\Card1.exe
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\ISCG6421_assignment2_starter-V3-ByPonhvathVann\FreeCell\bin\Debug\Card1.pdb
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\ISCG6421_assignment2_starter-V3-ByPonhvathVann\FreeCell\obj\Debug\FreeCell.csprojAssemblyReference.cache
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\ISCG6421_assignment2_starter-V3-ByPonhvathVann\FreeCell\obj\Debug\FreeCell.MainForm.resources
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\ISCG6421_assignment2_starter-V3-ByPonhvathVann\FreeCell\obj\Debug\Card1.Properties.Resources.resources
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\ISCG6421_assignment2_starter-V3-ByPonhvathVann\FreeCell\obj\Debug\FreeCell.csproj.GenerateResource.cache
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\ISCG6421_assignment2_starter-V3-ByPonhvathVann\FreeCell\obj\Debug\FreeCell.csproj.CoreCompileInputs.cache
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\ISCG6421_assignment2_starter-V3-ByPonhvathVann\FreeCell\obj\Debug\Card1.exe.manifest
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\ISCG6421_assignment2_starter-V3-ByPonhvathVann\FreeCell\obj\Debug\Card1.application
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\ISCG6421_assignment2_starter-V3-ByPonhvathVann\FreeCell\obj\Debug\Card1.exe
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\ISCG6421_assignment2_starter-V3-ByPonhvathVann\FreeCell\obj\Debug\Card1.pdb
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\ISCG6421_assignment2_starter-V4-ByPonhvathVann - Copy\FreeCell\bin\Debug\Card1.exe.config
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\ISCG6421_assignment2_starter-V4-ByPonhvathVann - Copy\FreeCell\bin\Debug\Card1.exe.manifest
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\ISCG6421_assignment2_starter-V4-ByPonhvathVann - Copy\FreeCell\bin\Debug\Card1.application
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\ISCG6421_assignment2_starter-V4-ByPonhvathVann - Copy\FreeCell\bin\Debug\Card1.exe
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\ISCG6421_assignment2_starter-V4-ByPonhvathVann - Copy\FreeCell\bin\Debug\Card1.pdb
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\ISCG6421_assignment2_starter-V4-ByPonhvathVann - Copy\FreeCell\obj\Debug\FreeCell.csprojAssemblyReference.cache
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\ISCG6421_assignment2_starter-V4-ByPonhvathVann - Copy\FreeCell\obj\Debug\FreeCell.MainForm.resources
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\ISCG6421_assignment2_starter-V4-ByPonhvathVann - Copy\FreeCell\obj\Debug\Card1.Properties.Resources.resources
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\ISCG6421_assignment2_starter-V4-ByPonhvathVann - Copy\FreeCell\obj\Debug\FreeCell.csproj.GenerateResource.cache
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\ISCG6421_assignment2_starter-V4-ByPonhvathVann - Copy\FreeCell\obj\Debug\FreeCell.csproj.CoreCompileInputs.cache
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\ISCG6421_assignment2_starter-V4-ByPonhvathVann - Copy\FreeCell\obj\Debug\Card1.exe.manifest
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\ISCG6421_assignment2_starter-V4-ByPonhvathVann - Copy\FreeCell\obj\Debug\Card1.application
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\ISCG6421_assignment2_starter-V4-ByPonhvathVann - Copy\FreeCell\obj\Debug\Card1.exe
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\ISCG6421_assignment2_starter-V4-ByPonhvathVann - Copy\FreeCell\obj\Debug\Card1.pdb
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\ISCG6421_assignment2_starter-V5-ByPonhvathVann\FreeCell\bin\Debug\Card1.exe.config
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\ISCG6421_assignment2_starter-V5-ByPonhvathVann\FreeCell\bin\Debug\Card1.exe.manifest
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\ISCG6421_assignment2_starter-V5-ByPonhvathVann\FreeCell\bin\Debug\Card1.application
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\ISCG6421_assignment2_starter-V5-ByPonhvathVann\FreeCell\bin\Debug\Card1.exe
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\ISCG6421_assignment2_starter-V5-ByPonhvathVann\FreeCell\bin\Debug\Card1.pdb
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\ISCG6421_assignment2_starter-V5-ByPonhvathVann\FreeCell\obj\Debug\FreeCell.csprojAssemblyReference.cache
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\ISCG6421_assignment2_starter-V5-ByPonhvathVann\FreeCell\obj\Debug\FreeCell.MainForm.resources
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\ISCG6421_assignment2_starter-V5-ByPonhvathVann\FreeCell\obj\Debug\Card1.Properties.Resources.resources
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\ISCG6421_assignment2_starter-V5-ByPonhvathVann\FreeCell\obj\Debug\FreeCell.csproj.GenerateResource.cache
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\ISCG6421_assignment2_starter-V5-ByPonhvathVann\FreeCell\obj\Debug\FreeCell.csproj.CoreCompileInputs.cache
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\ISCG6421_assignment2_starter-V5-ByPonhvathVann\FreeCell\obj\Debug\Card1.exe.manifest
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\ISCG6421_assignment2_starter-V5-ByPonhvathVann\FreeCell\obj\Debug\Card1.application
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\ISCG6421_assignment2_starter-V5-ByPonhvathVann\FreeCell\obj\Debug\Card1.exe
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\ISCG6421_assignment2_starter-V5-ByPonhvathVann\FreeCell\obj\Debug\Card1.pdb
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\ISCG6421_assignment2_starter-V6-ByPonhvathVann\FreeCell\bin\Debug\Card1.exe.config
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\ISCG6421_assignment2_starter-V6-ByPonhvathVann\FreeCell\bin\Debug\Card1.exe.manifest
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\ISCG6421_assignment2_starter-V6-ByPonhvathVann\FreeCell\bin\Debug\Card1.application
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\ISCG6421_assignment2_starter-V6-ByPonhvathVann\FreeCell\bin\Debug\Card1.exe
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\ISCG6421_assignment2_starter-V6-ByPonhvathVann\FreeCell\bin\Debug\Card1.pdb
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\ISCG6421_assignment2_starter-V6-ByPonhvathVann\FreeCell\obj\Debug\FreeCell.csprojAssemblyReference.cache
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\ISCG6421_assignment2_starter-V6-ByPonhvathVann\FreeCell\obj\Debug\FreeCell.MainForm.resources
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\ISCG6421_assignment2_starter-V6-ByPonhvathVann\FreeCell\obj\Debug\Card1.Properties.Resources.resources
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\ISCG6421_assignment2_starter-V6-ByPonhvathVann\FreeCell\obj\Debug\FreeCell.csproj.GenerateResource.cache
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\ISCG6421_assignment2_starter-V6-ByPonhvathVann\FreeCell\obj\Debug\FreeCell.csproj.CoreCompileInputs.cache
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\ISCG6421_assignment2_starter-V6-ByPonhvathVann\FreeCell\obj\Debug\Card1.exe.manifest
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\ISCG6421_assignment2_starter-V6-ByPonhvathVann\FreeCell\obj\Debug\Card1.application
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\ISCG6421_assignment2_starter-V6-ByPonhvathVann\FreeCell\obj\Debug\Card1.exe
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\ISCG6421_assignment2_starter-V6-ByPonhvathVann\FreeCell\obj\Debug\Card1.pdb
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\ISCG6421_assignment2_starter-V7-ByPonhvathVann\FreeCell\bin\Debug\Card1.exe.config
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\ISCG6421_assignment2_starter-V7-ByPonhvathVann\FreeCell\bin\Debug\Card1.exe.manifest
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\ISCG6421_assignment2_starter-V7-ByPonhvathVann\FreeCell\bin\Debug\Card1.application
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\ISCG6421_assignment2_starter-V7-ByPonhvathVann\FreeCell\bin\Debug\Card1.exe
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\ISCG6421_assignment2_starter-V7-ByPonhvathVann\FreeCell\bin\Debug\Card1.pdb
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\ISCG6421_assignment2_starter-V7-ByPonhvathVann\FreeCell\obj\Debug\FreeCell.csprojAssemblyReference.cache
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\ISCG6421_assignment2_starter-V7-ByPonhvathVann\FreeCell\obj\Debug\FreeCell.MainForm.resources
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\ISCG6421_assignment2_starter-V7-ByPonhvathVann\FreeCell\obj\Debug\Card1.Properties.Resources.resources
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\ISCG6421_assignment2_starter-V7-ByPonhvathVann\FreeCell\obj\Debug\FreeCell.csproj.GenerateResource.cache
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\ISCG6421_assignment2_starter-V7-ByPonhvathVann\FreeCell\obj\Debug\FreeCell.csproj.CoreCompileInputs.cache
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\ISCG6421_assignment2_starter-V7-ByPonhvathVann\FreeCell\obj\Debug\Card1.exe.manifest
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\ISCG6421_assignment2_starter-V7-ByPonhvathVann\FreeCell\obj\Debug\Card1.application
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\ISCG6421_assignment2_starter-V7-ByPonhvathVann\FreeCell\obj\Debug\Card1.exe
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\ISCG6421_assignment2_starter-V7-ByPonhvathVann\FreeCell\obj\Debug\Card1.pdb
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\ISCG6421_assignment2_starter-V8-ByPonhvathVann - Copy\FreeCell\bin\Debug\Card1.exe.config
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\ISCG6421_assignment2_starter-V8-ByPonhvathVann - Copy\FreeCell\bin\Debug\Card1.exe.manifest
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\ISCG6421_assignment2_starter-V8-ByPonhvathVann - Copy\FreeCell\bin\Debug\Card1.application
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\ISCG6421_assignment2_starter-V8-ByPonhvathVann - Copy\FreeCell\bin\Debug\Card1.exe
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\ISCG6421_assignment2_starter-V8-ByPonhvathVann - Copy\FreeCell\bin\Debug\Card1.pdb
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\ISCG6421_assignment2_starter-V8-ByPonhvathVann - Copy\FreeCell\obj\Debug\FreeCell.csprojAssemblyReference.cache
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\ISCG6421_assignment2_starter-V8-ByPonhvathVann - Copy\FreeCell\obj\Debug\FreeCell.MainForm.resources
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\ISCG6421_assignment2_starter-V8-ByPonhvathVann - Copy\FreeCell\obj\Debug\Card1.Properties.Resources.resources
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\ISCG6421_assignment2_starter-V8-ByPonhvathVann - Copy\FreeCell\obj\Debug\FreeCell.csproj.GenerateResource.cache
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\ISCG6421_assignment2_starter-V8-ByPonhvathVann - Copy\FreeCell\obj\Debug\FreeCell.csproj.CoreCompileInputs.cache
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\ISCG6421_assignment2_starter-V8-ByPonhvathVann - Copy\FreeCell\obj\Debug\Card1.exe.manifest
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\ISCG6421_assignment2_starter-V8-ByPonhvathVann - Copy\FreeCell\obj\Debug\Card1.application
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\ISCG6421_assignment2_starter-V8-ByPonhvathVann - Copy\FreeCell\obj\Debug\Card1.exe
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\ISCG6421_assignment2_starter-V8-ByPonhvathVann - Copy\FreeCell\obj\Debug\Card1.pdb
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\ISCG6421_assignment2_starter-V9-ByPonhvathVann\FreeCell\bin\Debug\Card1.exe.config
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\ISCG6421_assignment2_starter-V9-ByPonhvathVann\FreeCell\bin\Debug\Card1.exe.manifest
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\ISCG6421_assignment2_starter-V9-ByPonhvathVann\FreeCell\bin\Debug\Card1.application
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\ISCG6421_assignment2_starter-V9-ByPonhvathVann\FreeCell\bin\Debug\Card1.exe
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\ISCG6421_assignment2_starter-V9-ByPonhvathVann\FreeCell\bin\Debug\Card1.pdb
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\ISCG6421_assignment2_starter-V9-ByPonhvathVann\FreeCell\obj\Debug\FreeCell.csprojAssemblyReference.cache
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\ISCG6421_assignment2_starter-V9-ByPonhvathVann\FreeCell\obj\Debug\FreeCell.MainForm.resources
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\ISCG6421_assignment2_starter-V9-ByPonhvathVann\FreeCell\obj\Debug\Card1.Properties.Resources.resources
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\ISCG6421_assignment2_starter-V9-ByPonhvathVann\FreeCell\obj\Debug\FreeCell.csproj.GenerateResource.cache
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\ISCG6421_assignment2_starter-V9-ByPonhvathVann\FreeCell\obj\Debug\FreeCell.csproj.CoreCompileInputs.cache
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\ISCG6421_assignment2_starter-V9-ByPonhvathVann\FreeCell\obj\Debug\Card1.exe.manifest
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\ISCG6421_assignment2_starter-V9-ByPonhvathVann\FreeCell\obj\Debug\Card1.application
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\ISCG6421_assignment2_starter-V9-ByPonhvathVann\FreeCell\obj\Debug\Card1.exe
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\ISCG6421_assignment2_starter-V9-ByPonhvathVann\FreeCell\obj\Debug\Card1.pdb
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\ISCG6421_assignment2_starter-V10-ByPonhvathVann\FreeCell\bin\Debug\Card1.exe.config
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\ISCG6421_assignment2_starter-V10-ByPonhvathVann\FreeCell\bin\Debug\Card1.exe.manifest
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\ISCG6421_assignment2_starter-V10-ByPonhvathVann\FreeCell\bin\Debug\Card1.application
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\ISCG6421_assignment2_starter-V10-ByPonhvathVann\FreeCell\bin\Debug\Card1.exe
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\ISCG6421_assignment2_starter-V10-ByPonhvathVann\FreeCell\bin\Debug\Card1.pdb
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\ISCG6421_assignment2_starter-V10-ByPonhvathVann\FreeCell\obj\Debug\FreeCell.csprojAssemblyReference.cache
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\ISCG6421_assignment2_starter-V10-ByPonhvathVann\FreeCell\obj\Debug\FreeCell.MainForm.resources
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\ISCG6421_assignment2_starter-V10-ByPonhvathVann\FreeCell\obj\Debug\Card1.Properties.Resources.resources
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\ISCG6421_assignment2_starter-V10-ByPonhvathVann\FreeCell\obj\Debug\FreeCell.csproj.GenerateResource.cache
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\ISCG6421_assignment2_starter-V10-ByPonhvathVann\FreeCell\obj\Debug\FreeCell.csproj.CoreCompileInputs.cache
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\ISCG6421_assignment2_starter-V10-ByPonhvathVann\FreeCell\obj\Debug\Card1.exe.manifest
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\ISCG6421_assignment2_starter-V10-ByPonhvathVann\FreeCell\obj\Debug\Card1.application
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\ISCG6421_assignment2_starter-V10-ByPonhvathVann\FreeCell\obj\Debug\Card1.exe
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\ISCG6421_assignment2_starter-V10-ByPonhvathVann\FreeCell\obj\Debug\Card1.pdb
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\ISCG6421_assignment2_starter-V11-ByPonhvathVann\FreeCell\bin\Debug\Card1.exe.config
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\ISCG6421_assignment2_starter-V11-ByPonhvathVann\FreeCell\bin\Debug\Card1.exe.manifest
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\ISCG6421_assignment2_starter-V11-ByPonhvathVann\FreeCell\bin\Debug\Card1.application
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\ISCG6421_assignment2_starter-V11-ByPonhvathVann\FreeCell\bin\Debug\Card1.exe
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\ISCG6421_assignment2_starter-V11-ByPonhvathVann\FreeCell\bin\Debug\Card1.pdb
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\ISCG6421_assignment2_starter-V11-ByPonhvathVann\FreeCell\obj\Debug\FreeCell.csprojAssemblyReference.cache
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\ISCG6421_assignment2_starter-V11-ByPonhvathVann\FreeCell\obj\Debug\FreeCell.MainForm.resources
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\ISCG6421_assignment2_starter-V11-ByPonhvathVann\FreeCell\obj\Debug\Card1.Properties.Resources.resources
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\ISCG6421_assignment2_starter-V11-ByPonhvathVann\FreeCell\obj\Debug\FreeCell.csproj.GenerateResource.cache
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\ISCG6421_assignment2_starter-V11-ByPonhvathVann\FreeCell\obj\Debug\FreeCell.csproj.CoreCompileInputs.cache
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\ISCG6421_assignment2_starter-V11-ByPonhvathVann\FreeCell\obj\Debug\Card1.exe.manifest
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\ISCG6421_assignment2_starter-V11-ByPonhvathVann\FreeCell\obj\Debug\Card1.application
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\ISCG6421_assignment2_starter-V11-ByPonhvathVann\FreeCell\obj\Debug\Card1.exe
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\ISCG6421_assignment2_starter-V11-ByPonhvathVann\FreeCell\obj\Debug\Card1.pdb
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\ISCG6421_assignment2_starter-V12-ByPonhvathVann\FreeCell\bin\Debug\Card1.exe.config
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\ISCG6421_assignment2_starter-V12-ByPonhvathVann\FreeCell\bin\Debug\Card1.exe.manifest
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\ISCG6421_assignment2_starter-V12-ByPonhvathVann\FreeCell\bin\Debug\Card1.application
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\ISCG6421_assignment2_starter-V12-ByPonhvathVann\FreeCell\bin\Debug\Card1.exe
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\ISCG6421_assignment2_starter-V12-ByPonhvathVann\FreeCell\bin\Debug\Card1.pdb
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\ISCG6421_assignment2_starter-V12-ByPonhvathVann\FreeCell\obj\Debug\FreeCell.csprojAssemblyReference.cache
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\ISCG6421_assignment2_starter-V12-ByPonhvathVann\FreeCell\obj\Debug\FreeCell.MainForm.resources
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\ISCG6421_assignment2_starter-V12-ByPonhvathVann\FreeCell\obj\Debug\Card1.Properties.Resources.resources
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\ISCG6421_assignment2_starter-V12-ByPonhvathVann\FreeCell\obj\Debug\FreeCell.csproj.GenerateResource.cache
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\ISCG6421_assignment2_starter-V12-ByPonhvathVann\FreeCell\obj\Debug\FreeCell.csproj.CoreCompileInputs.cache
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\ISCG6421_assignment2_starter-V12-ByPonhvathVann\FreeCell\obj\Debug\Card1.exe.manifest
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\ISCG6421_assignment2_starter-V12-ByPonhvathVann\FreeCell\obj\Debug\Card1.application
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\ISCG6421_assignment2_starter-V12-ByPonhvathVann\FreeCell\obj\Debug\Card1.exe
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\ISCG6421_assignment2_starter-V12-ByPonhvathVann\FreeCell\obj\Debug\Card1.pdb
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\ISCG6421_assignment2_starter-V14-ByPonhvathVann\FreeCell\bin\Debug\Card1.exe.config
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\ISCG6421_assignment2_starter-V14-ByPonhvathVann\FreeCell\bin\Debug\Card1.exe.manifest
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\ISCG6421_assignment2_starter-V14-ByPonhvathVann\FreeCell\bin\Debug\Card1.application
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\ISCG6421_assignment2_starter-V14-ByPonhvathVann\FreeCell\bin\Debug\Card1.exe
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\ISCG6421_assignment2_starter-V14-ByPonhvathVann\FreeCell\bin\Debug\Card1.pdb
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\ISCG6421_assignment2_starter-V14-ByPonhvathVann\FreeCell\obj\Debug\FreeCell.csprojAssemblyReference.cache
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\ISCG6421_assignment2_starter-V14-ByPonhvathVann\FreeCell\obj\Debug\FreeCell.MainForm.resources
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\ISCG6421_assignment2_starter-V14-ByPonhvathVann\FreeCell\obj\Debug\Card1.Properties.Resources.resources
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\ISCG6421_assignment2_starter-V14-ByPonhvathVann\FreeCell\obj\Debug\FreeCell.csproj.GenerateResource.cache
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\ISCG6421_assignment2_starter-V14-ByPonhvathVann\FreeCell\obj\Debug\FreeCell.csproj.CoreCompileInputs.cache
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\ISCG6421_assignment2_starter-V14-ByPonhvathVann\FreeCell\obj\Debug\Card1.exe.manifest
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\ISCG6421_assignment2_starter-V14-ByPonhvathVann\FreeCell\obj\Debug\Card1.application
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\ISCG6421_assignment2_starter-V14-ByPonhvathVann\FreeCell\obj\Debug\Card1.exe
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\ISCG6421_assignment2_starter-V14-ByPonhvathVann\FreeCell\obj\Debug\Card1.pdb
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\GUI-Assignment2-By-PonhvathVann-1502538\Freecell-SourceCode-By-PonhvathVann-1502538\FreeCell\bin\Debug\Card1.exe.config
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\GUI-Assignment2-By-PonhvathVann-1502538\Freecell-SourceCode-By-PonhvathVann-1502538\FreeCell\bin\Debug\Card1.exe.manifest
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\GUI-Assignment2-By-PonhvathVann-1502538\Freecell-SourceCode-By-PonhvathVann-1502538\FreeCell\bin\Debug\Card1.application
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\GUI-Assignment2-By-PonhvathVann-1502538\Freecell-SourceCode-By-PonhvathVann-1502538\FreeCell\bin\Debug\Card1.exe
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\GUI-Assignment2-By-PonhvathVann-1502538\Freecell-SourceCode-By-PonhvathVann-1502538\FreeCell\bin\Debug\Card1.pdb
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\GUI-Assignment2-By-PonhvathVann-1502538\Freecell-SourceCode-By-PonhvathVann-1502538\FreeCell\obj\Debug\FreeCell.csprojAssemblyReference.cache
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\GUI-Assignment2-By-PonhvathVann-1502538\Freecell-SourceCode-By-PonhvathVann-1502538\FreeCell\obj\Debug\FreeCell.MainForm.resources
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\GUI-Assignment2-By-PonhvathVann-1502538\Freecell-SourceCode-By-PonhvathVann-1502538\FreeCell\obj\Debug\Card1.Properties.Resources.resources
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\GUI-Assignment2-By-PonhvathVann-1502538\Freecell-SourceCode-By-PonhvathVann-1502538\FreeCell\obj\Debug\FreeCell.csproj.GenerateResource.cache
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\GUI-Assignment2-By-PonhvathVann-1502538\Freecell-SourceCode-By-PonhvathVann-1502538\FreeCell\obj\Debug\FreeCell.csproj.CoreCompileInputs.cache
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\GUI-Assignment2-By-PonhvathVann-1502538\Freecell-SourceCode-By-PonhvathVann-1502538\FreeCell\obj\Debug\Card1.exe.manifest
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\GUI-Assignment2-By-PonhvathVann-1502538\Freecell-SourceCode-By-PonhvathVann-1502538\FreeCell\obj\Debug\Card1.application
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\GUI-Assignment2-By-PonhvathVann-1502538\Freecell-SourceCode-By-PonhvathVann-1502538\FreeCell\obj\Debug\Card1.exe
+C:\Users\BoBBy\Desktop\Assignment-2020\GUI\Assignment2\GUI-Assignment2-By-PonhvathVann-1502538\Freecell-SourceCode-By-PonhvathVann-1502538\FreeCell\obj\Debug\Card1.pdb
+F:\Unitec Journey\Semester1-2020\Assignment-2020\GUI\Assignment2\GUI-Assignment2-By-PonhvathVann-1502538\Freecell-SourceCode-By-PonhvathVann-1502538\FreeCell\bin\Debug\Card1.exe.config
+F:\Unitec Journey\Semester1-2020\Assignment-2020\GUI\Assignment2\GUI-Assignment2-By-PonhvathVann-1502538\Freecell-SourceCode-By-PonhvathVann-1502538\FreeCell\bin\Debug\Card1.exe.manifest
+F:\Unitec Journey\Semester1-2020\Assignment-2020\GUI\Assignment2\GUI-Assignment2-By-PonhvathVann-1502538\Freecell-SourceCode-By-PonhvathVann-1502538\FreeCell\bin\Debug\Card1.application
+F:\Unitec Journey\Semester1-2020\Assignment-2020\GUI\Assignment2\GUI-Assignment2-By-PonhvathVann-1502538\Freecell-SourceCode-By-PonhvathVann-1502538\FreeCell\bin\Debug\Card1.exe
+F:\Unitec Journey\Semester1-2020\Assignment-2020\GUI\Assignment2\GUI-Assignment2-By-PonhvathVann-1502538\Freecell-SourceCode-By-PonhvathVann-1502538\FreeCell\bin\Debug\Card1.pdb
+F:\Unitec Journey\Semester1-2020\Assignment-2020\GUI\Assignment2\GUI-Assignment2-By-PonhvathVann-1502538\Freecell-SourceCode-By-PonhvathVann-1502538\FreeCell\obj\Debug\FreeCell.csprojAssemblyReference.cache
+F:\Unitec Journey\Semester1-2020\Assignment-2020\GUI\Assignment2\GUI-Assignment2-By-PonhvathVann-1502538\Freecell-SourceCode-By-PonhvathVann-1502538\FreeCell\obj\Debug\FreeCell.MainForm.resources
+F:\Unitec Journey\Semester1-2020\Assignment-2020\GUI\Assignment2\GUI-Assignment2-By-PonhvathVann-1502538\Freecell-SourceCode-By-PonhvathVann-1502538\FreeCell\obj\Debug\Card1.Properties.Resources.resources
+F:\Unitec Journey\Semester1-2020\Assignment-2020\GUI\Assignment2\GUI-Assignment2-By-PonhvathVann-1502538\Freecell-SourceCode-By-PonhvathVann-1502538\FreeCell\obj\Debug\FreeCell.csproj.GenerateResource.cache
+F:\Unitec Journey\Semester1-2020\Assignment-2020\GUI\Assignment2\GUI-Assignment2-By-PonhvathVann-1502538\Freecell-SourceCode-By-PonhvathVann-1502538\FreeCell\obj\Debug\FreeCell.csproj.CoreCompileInputs.cache
+F:\Unitec Journey\Semester1-2020\Assignment-2020\GUI\Assignment2\GUI-Assignment2-By-PonhvathVann-1502538\Freecell-SourceCode-By-PonhvathVann-1502538\FreeCell\obj\Debug\Card1.exe.manifest
+F:\Unitec Journey\Semester1-2020\Assignment-2020\GUI\Assignment2\GUI-Assignment2-By-PonhvathVann-1502538\Freecell-SourceCode-By-PonhvathVann-1502538\FreeCell\obj\Debug\Card1.application
+F:\Unitec Journey\Semester1-2020\Assignment-2020\GUI\Assignment2\GUI-Assignment2-By-PonhvathVann-1502538\Freecell-SourceCode-By-PonhvathVann-1502538\FreeCell\obj\Debug\Card1.exe
+F:\Unitec Journey\Semester1-2020\Assignment-2020\GUI\Assignment2\GUI-Assignment2-By-PonhvathVann-1502538\Freecell-SourceCode-By-PonhvathVann-1502538\FreeCell\obj\Debug\Card1.pdb
