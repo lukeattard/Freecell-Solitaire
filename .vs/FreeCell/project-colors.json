@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "08607569-57b8-47f8-bdba-bacf7d685f29": {
+      "ProjectGuid": "08607569-57b8-47f8-bdba-bacf7d685f29",
+      "DisplayName": "FreeCell",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -60,14 +60,14 @@
             this.pnlFreeCell3 = new FreeCell.FreeCellCardPanel();
             this.pnlFreeCell2 = new FreeCell.FreeCellCardPanel();
             this.pnlFreeCell1 = new FreeCell.FreeCellCardPanel();
-            this.pnlTableau8 = new FreeCell.CardPanel();
-            this.pnlTableau7 = new FreeCell.CardPanel();
-            this.pnlTableau6 = new FreeCell.CardPanel();
-            this.pnlTableau5 = new FreeCell.CardPanel();
-            this.pnlTableau4 = new FreeCell.CardPanel();
-            this.pnlTableau3 = new FreeCell.CardPanel();
-            this.pnlTableau2 = new FreeCell.CardPanel();
-            this.pnlTableau1 = new FreeCell.CardPanel();
+            this.pnlTableau8 = new FreeCell.GamePanel();
+            this.pnlTableau7 = new FreeCell.GamePanel();
+            this.pnlTableau6 = new FreeCell.GamePanel();
+            this.pnlTableau5 = new FreeCell.GamePanel();
+            this.pnlTableau4 = new FreeCell.GamePanel();
+            this.pnlTableau3 = new FreeCell.GamePanel();
+            this.pnlTableau2 = new FreeCell.GamePanel();
+            this.pnlTableau1 = new FreeCell.GamePanel();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -476,7 +476,8 @@
             this.MainMenuStrip = this.menuStrip1;
             this.Name = "MainForm";
             this.Text = "FreeCell";
-            this.Load += new System.EventHandler(this.Form1_Load);
+            //refractor the name of Form1_load to mainForm_load to compile with the current naming scheme
+            this.Load += new System.EventHandler(this.MainForm_Load);
             this.menuStrip1.ResumeLayout(false);
             this.menuStrip1.PerformLayout();
             this.ResumeLayout(false);
@@ -486,14 +487,14 @@
 
         #endregion
         private System.Windows.Forms.Label label1;
-        private CardPanel pnlTableau1;
-        private CardPanel pnlTableau3;
-        private CardPanel pnlTableau4;
-        private CardPanel pnlTableau2;
-        private CardPanel pnlTableau5;
-        private CardPanel pnlTableau6;
-        private CardPanel pnlTableau7;
-        private CardPanel pnlTableau8;
+        private GamePanel pnlTableau1;
+        private GamePanel pnlTableau3;
+        private GamePanel pnlTableau4;
+        private GamePanel pnlTableau2;
+        private GamePanel pnlTableau5;
+        private GamePanel pnlTableau6;
+        private GamePanel pnlTableau7;
+        private GamePanel pnlTableau8;
         private System.Windows.Forms.MenuStrip menuStrip1;
         private System.Windows.Forms.ToolStripMenuItem menuToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem newGameToolStripMenuItem;

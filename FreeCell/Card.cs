@@ -169,7 +169,7 @@ namespace FreeCell
                     break;
             }
 
-            BackgroundImage = (System.Drawing.Image)Properties.Resources.ResourceManager.GetObject(card, Properties.Resources.Culture);
+            BackgroundImage = (Image)Card1.Properties.Resources.ResourceManager.GetObject(card, Card1.Properties.Resources.Culture);
             BackgroundImageLayout = ImageLayout.Stretch;
             ForeColor = Color.Transparent;
         }

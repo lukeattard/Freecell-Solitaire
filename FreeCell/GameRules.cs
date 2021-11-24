@@ -92,7 +92,7 @@ namespace FreeCell
         /// <summary>
         /// Function to check if the freecell panel is not occupied
         /// </summary>
-        public static bool IsFreeCellCardPanel(CardPanel fcPanel)
+        public static bool IsFreeCellCardPanel(GamePanel fcPanel)
         {
             if (fcPanel.GetLength() == 0)
             {
@@ -106,7 +106,7 @@ namespace FreeCell
         /// <summary>
         /// Function to check if the homecell panel is occupied
         /// </summary>
-        public static bool IsHomeCellCardPanel(CardPanel hcPanel)
+        public static bool IsHomeCellCardPanel(GamePanel hcPanel)
         {
             if (hcPanel.GetLength() >= 0)
             {
@@ -121,7 +121,7 @@ namespace FreeCell
         /// <summary>
         /// Function to check if the move made with the homecell panel is valid
         /// </summary>
-        public static bool IsHomeCellCardValid(CardPanel cp, Card card1, Card card2)
+        public static bool IsHomeCellCardValid(GamePanel cp, Card card1, Card card2)
         {
             if (IsSuitsMatched(card1, card2) && IsHomeCellCardFacesValid(card1, card2))
             {
@@ -204,13 +204,25 @@ namespace FreeCell
         }
 
         /// <summary>
+        /// Function to check how many cards can be moved in given the amount of free spaces
+        /// this is not solitair it is freecell
+        /// Luke Attard
+        /// </summary>
+
+        private static int CardsThatCanBeMoved()
+        {
+            int legalNumberOfCards = 0;
+
+            return legalNumberOfCards;
+        }
+        /// <summary>
         /// Function to check if user has won the game
         /// </summary>
-        public static bool isGameCompleted(List<CardPanel> cardPanels, List<FreeCellCardPanel> freecellCardPanels, List<HomeCellCardPanel> homecellCardPanels)
+        public static bool isGameCompleted(List<GamePanel> cardPanels, List<FreeCellCardPanel> freecellCardPanels, List<HomeCellCardPanel> homecellCardPanels)
         {
             bool isCompleted = false;
 
-            foreach(CardPanel cp in cardPanels)
+            foreach(GamePanel cp in cardPanels)
             {
                 if(cp.GetLength() == 0)
                 {
@@ -257,18 +269,18 @@ namespace FreeCell
         /// <summary>
         /// Function to check if there is anymore possible move
         /// </summary>
-        private static bool isMovePossible(List<CardPanel> CardPanelList, Card card1, Card card2)
+        private static bool isMovePossible(List<GamePanel> CardPanelList, Card card1, Card card2)
         {
             bool IsAMovePossible = false;
 
             // Loop through the cardPanels
-            foreach (CardPanel cp in CardPanelList)
+            foreach (GamePanel cp in CardPanelList)
             {
                 // Loop through each card in the Panel
                 foreach (Card c in cp.cardStack)
                 {
                     // Loop through the CardPanels to check for dragDrop options
-                    foreach (CardPanel innerCP in CardPanelList)
+                    foreach (GamePanel innerCP in CardPanelList)
                     {
                         if (IsMoveValid(card1, card2))
                         {

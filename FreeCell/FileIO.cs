@@ -14,13 +14,13 @@ namespace FreeCell
         /// <summary>
         /// Function to save the game state
         /// </summary>
-        public static void saveGame(string path, List<CardPanel> pnlTableau, List<FreeCellCardPanel> pnlFreeCell, List<HomeCellCardPanel> pnlHomeCell, List<Card> initialCardList, List<string> cardMoves, int moveCount, string minutes, string seconds, int interval)
+        public static void saveGame(string path, List<GamePanel> pnlTableau, List<FreeCellCardPanel> pnlFreeCell, List<HomeCellCardPanel> pnlHomeCell, List<Card> initialCardList, List<string> cardMoves, int moveCount, string minutes, string seconds, int interval)
         {
             StreamWriter sw = new StreamWriter(path);
             StringBuilder sb = new StringBuilder(2000);
 
             int i = 1;
-            foreach(CardPanel tableauPanel in pnlTableau)
+            foreach(GamePanel tableauPanel in pnlTableau)
             {
                 sb.Append($"pnlTableau{i}");
                 List<Card> cards = tableauPanel.cardStack;

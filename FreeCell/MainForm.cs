@@ -3,19 +3,12 @@ ISCG6421 GUI Programming, Semester 1, 2020, Assignment 2
 Student Name: Ponhvath Vann
 Student ID: 1502538
 */
+// Refractored the list of using, so many were not needed - Luke Attard
 
 using System;
 using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
-using System.Drawing.Imaging;
-using System.IO;
-using System.Collections.ObjectModel;
+
 
 namespace FreeCell
 {
@@ -23,10 +16,10 @@ namespace FreeCell
     {
         private Random _random = new Random();
         private List<Card> cardList = new List<Card>(); //Store all of the 52 cards
-        private List<CardPanel> cardPanels = new List<CardPanel>(); //Store tableau panels
+        private List<GamePanel> cardPanels = new List<GamePanel>(); //Store tableau panels
         private List<FreeCellCardPanel> freecellCardPanels = new List<FreeCellCardPanel>(); //Store freecell panels
         private List<HomeCellCardPanel> homecellCardPanels = new List<HomeCellCardPanel>(); //Store homecell panels
-        private List<CardPanel> CardPanelList = new List<CardPanel>(); //Store all panels
+        private List<GamePanel> CardPanelList = new List<GamePanel>(); //Store all panels
         private List<string> cardMoves = new List<string>(); //Store all card moves
 
         private bool translateFlag = false;
@@ -37,8 +30,8 @@ namespace FreeCell
 
         //For animation
         private List<Card> cardMoveMade = new List<Card>();
-        private List<CardPanel> oldCardPanelMoveMade = new List<CardPanel>();
-        private List<CardPanel> newCardPanelMoveMade = new List<CardPanel>();
+        private List<GamePanel> oldCardPanelMoveMade = new List<GamePanel>();
+        private List<GamePanel> newCardPanelMoveMade = new List<GamePanel>();
         private int counter = 0;
 
         //For loading the saved game state
@@ -73,7 +66,7 @@ namespace FreeCell
             InitializeComponent();
         }
 
-        private void Form1_Load(object sender, EventArgs e)
+        private void MainForm_Load(object sender, EventArgs e)
         {
             CreateCard();
             DistributeCard();
@@ -96,6 +89,7 @@ namespace FreeCell
             }
             cardList.Shuffle(_random.Next(617));
         }
+
 
         /// <summary>
         /// Deal cards to 8 tableau panels
@@ -171,6 +165,7 @@ namespace FreeCell
         /// <summary>
         /// Add 4 freecell card panels to the freecellCardPanels list
         /// </summary>
+        /// //TODO - refractor and have the panels as part of the class, can then have the class as static as well.
         private void populateFreeCellCardPanels()
         {
             freecellCardPanels.Add(pnlFreeCell1);
@@ -182,6 +177,9 @@ namespace FreeCell
         /// <summary>
         /// Add 4 homecell card panels to the homecellCardPanels list
         /// </summary>
+        /// //TODO - refractor and have the panels as part of the class, can then have the class as static as well. - 
+        /// Same here no adding the objects, when you can have them as part of the class on compile
+        /// 
         private void populateHomeCellCardPanels()
         {
             homecellCardPanels.Add(pnlHomeCell1);
@@ -194,9 +192,10 @@ namespace FreeCell
         /// <summary>
         /// Add all the panels to the CardPanel List
         /// </summary>
+        /// // TODO and here too, there is no need to have loops to create these objects when we can just have them statically created in the class. 
         private void populateCardPanelList()
         {
-            foreach (CardPanel cp in cardPanels)
+            foreach (GamePanel cp in cardPanels)
             {
                 CardPanelList.Add(cp);
             }
@@ -243,7 +242,7 @@ namespace FreeCell
                 cardPanels[i].DragOver += new DragEventHandler(OnCardDragOver);
                 cardPanels[i].DragDrop += new DragEventHandler(OnCardDragDrop);
 
-                CardPanel currentCardPanel = (CardPanel)card.Parent;
+                GamePanel currentCardPanel = (GamePanel)card.Parent;
 
                 if (cardPanels[i].GetLength() == 0)
                 {
@@ -281,7 +280,7 @@ namespace FreeCell
         private void onCardMouseDown(object sender, MouseEventArgs e)
         {
             Card card = (Card)sender;
-            CardPanel panel = (CardPanel)card.Parent;
+            GamePanel panel = (GamePanel)card.Parent;
 
             bool canMove = EvaluateCard(card);
             if (canMove)
@@ -318,7 +317,7 @@ namespace FreeCell
         /// </summary>
         private void OnCardDragOver(object sender, DragEventArgs e)
         {
-            CardPanel panel = (CardPanel)sender;
+            GamePanel panel = (GamePanel)sender;
 
             if (panel.GetType() == typeof(FreeCellCardPanel))
             {
@@ -353,16 +352,16 @@ namespace FreeCell
         /// </summary>
         private void OnCardDragDrop(object sender, DragEventArgs e)
         {
-            CardPanel panel = (CardPanel)sender;
+            GamePanel panel = (GamePanel)sender;
             Card droppedCard = (Card)e.Data.GetData(typeof(Card));
-            CardPanel oldParent = (CardPanel)droppedCard.Parent;
+            GamePanel oldParent = (GamePanel)droppedCard.Parent;
 
-            if (panel.GetType() == typeof(CardPanel) && panel.GetLength() == 0) //Check if the Tableau Card Panel is emtpy
+            if (panel.GetType() == typeof(GamePanel) && panel.GetLength() == 0) //Check if the Tableau Card Panel is emtpy
             {
                 addCardMoveToTextBox(droppedCard.cardId, panel.Name);
                 storeAnimationState(droppedCard, oldParent, panel);
 
-                CardPanel oldPanel = (CardPanel)droppedCard.Parent;
+                GamePanel oldPanel = (GamePanel)droppedCard.Parent;
                 oldPanel.RemoveCard(droppedCard);
                 ((Card)e.Data.GetData(typeof(Card))).Parent = (Panel)sender;
                 panel.AddCard(droppedCard);
@@ -376,7 +375,7 @@ namespace FreeCell
                     addCardMoveToTextBox(droppedCard.cardId, panel.Name);
                     storeAnimationState(droppedCard, oldParent, panel);
 
-                    CardPanel oldPanel = (CardPanel)droppedCard.Parent;
+                    GamePanel oldPanel = (GamePanel)droppedCard.Parent;
                     oldPanel.RemoveCard(droppedCard);
                     ((Card)e.Data.GetData(typeof(Card))).Parent = (Panel)sender;
                     panel.AddCard(droppedCard);
@@ -392,7 +391,7 @@ namespace FreeCell
                     addCardMoveToTextBox(droppedCard.cardId, panel.Name);
                     storeAnimationState(droppedCard, oldParent, panel);
 
-                    CardPanel oldPanel = (CardPanel)droppedCard.Parent;
+                    GamePanel oldPanel = (GamePanel)droppedCard.Parent;
                     oldPanel.RemoveCard(droppedCard);
                     ((Card)e.Data.GetData(typeof(Card))).Parent = (Panel)sender;
                     panel.AddCard(droppedCard);
@@ -409,7 +408,7 @@ namespace FreeCell
                         addCardMoveToTextBox(droppedCard.cardId, panel.GetTopCard().cardId, panel.Name);
                         storeAnimationState(droppedCard, oldParent, panel);
 
-                        CardPanel oldPanel = (CardPanel)droppedCard.Parent;
+                        GamePanel oldPanel = (GamePanel)droppedCard.Parent;
                         oldPanel.RemoveCard(droppedCard);
                         ((Card)e.Data.GetData(typeof(Card))).Parent = (Panel)sender;
                         panel.AddCard(droppedCard);
@@ -420,7 +419,7 @@ namespace FreeCell
                 }
             }
             //Check if CardPanel is Tableau and if the stack is valid
-            else if (panel.GetType() == typeof(CardPanel) && GameRules.IsStackValid(oldParent.cardStack, oldParent.GetCardIndex(droppedCard), panel.GetTopCard()))
+            else if (panel.GetType() == typeof(GamePanel) && GameRules.IsStackValid(oldParent.cardStack, oldParent.GetCardIndex(droppedCard), panel.GetTopCard()))
             {
                 // loop through all cards that are being moved
                 int droppedCardIndex = oldParent.GetCardIndex(droppedCard);
@@ -445,12 +444,12 @@ namespace FreeCell
                 panel.OrganizePanel();
             }
             //Check if CardPanel is Tableau and if single card move is valid
-            else if (droppedCard == (droppedCard.Parent as CardPanel).GetTopCard() && GameRules.IsMoveValid(droppedCard, panel.GetTopCard()))
+            else if (droppedCard == (droppedCard.Parent as GamePanel).GetTopCard() && GameRules.IsMoveValid(droppedCard, panel.GetTopCard()))
             {
                 addCardMoveToTextBox(droppedCard.cardId, panel.GetTopCard().cardId, panel.Name);
                 storeAnimationState(droppedCard, oldParent, panel);
 
-                CardPanel oldPanel = (CardPanel)droppedCard.Parent;
+                GamePanel oldPanel = (GamePanel)droppedCard.Parent;
                 oldPanel.RemoveCard(droppedCard);
                 ((Card)e.Data.GetData(typeof(Card))).Parent = (Panel)sender;
                 panel.AddCard(droppedCard);
@@ -520,7 +519,7 @@ namespace FreeCell
         /// </summary>
         private void resetGameState()
         {
-            foreach (CardPanel cardPanel in cardPanels)
+            foreach (GamePanel cardPanel in cardPanels)
             {
                 cardPanel.Controls.Clear();
                 cardPanel.EmptyCardStack();
@@ -538,7 +537,7 @@ namespace FreeCell
                 hcPanel.EmptyCardStack();
             }
 
-            foreach (CardPanel cpList in CardPanelList)
+            foreach (GamePanel cpList in CardPanelList)
             {
                 cpList.Controls.Clear();
                 cpList.EmptyCardStack();
@@ -579,7 +578,7 @@ namespace FreeCell
         /// </summary>
         private void resetGameStateForAnimation()
         {
-            foreach (CardPanel cardPanel in cardPanels)
+            foreach (GamePanel cardPanel in cardPanels)
             {
                 cardPanel.Controls.Clear();
                 cardPanel.EmptyCardStack();
@@ -597,7 +596,7 @@ namespace FreeCell
                 hcPanel.EmptyCardStack();
             }
 
-            foreach (CardPanel cpList in CardPanelList)
+            foreach (GamePanel cpList in CardPanelList)
             {
                 cpList.Controls.Clear();
                 cpList.EmptyCardStack();
@@ -797,7 +796,7 @@ namespace FreeCell
         /// <summary>
         /// Function to store data needed to produce the animation timer
         /// </summary>
-        private void storeAnimationState(Card card, CardPanel oldCardPanel, CardPanel newCardPanel)
+        private void storeAnimationState(Card card, GamePanel oldCardPanel, GamePanel newCardPanel)
         {
             cardMoveMade.Add(card);
             oldCardPanelMoveMade.Add(oldCardPanel);
@@ -812,8 +811,8 @@ namespace FreeCell
             if(counter < cardMoveMade.Count)
             {
                 Card tempCard = cardMoveMade[counter];
-                CardPanel tempNewPanel = newCardPanelMoveMade[counter];
-                CardPanel tempOldPanel = oldCardPanelMoveMade[counter];
+                GamePanel tempNewPanel = newCardPanelMoveMade[counter];
+                GamePanel tempOldPanel = oldCardPanelMoveMade[counter];
                 addCardMoveToTextBox(tempCard.cardId, tempNewPanel.Name);
 
                 tempNewPanel.AddCard(tempCard);

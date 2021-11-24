@@ -208,3 +208,18 @@ F:\Unitec Journey\Semester1-2020\Assignment-2020\GUI\Assignment2\GUI-Assignment2
 F:\Unitec Journey\Semester1-2020\Assignment-2020\GUI\Assignment2\GUI-Assignment2-By-PonhvathVann-1502538\Freecell-SourceCode-By-PonhvathVann-1502538\FreeCell\obj\Debug\Card1.application
 F:\Unitec Journey\Semester1-2020\Assignment-2020\GUI\Assignment2\GUI-Assignment2-By-PonhvathVann-1502538\Freecell-SourceCode-By-PonhvathVann-1502538\FreeCell\obj\Debug\Card1.exe
 F:\Unitec Journey\Semester1-2020\Assignment-2020\GUI\Assignment2\GUI-Assignment2-By-PonhvathVann-1502538\Freecell-SourceCode-By-PonhvathVann-1502538\FreeCell\obj\Debug\Card1.pdb
+D:\Dev\Source\Freecell-Solitaire\FreeCell\bin\Debug\Card1.exe.config
+D:\Dev\Source\Freecell-Solitaire\FreeCell\bin\Debug\Card1.exe.manifest
+D:\Dev\Source\Freecell-Solitaire\FreeCell\bin\Debug\Card1.application
+D:\Dev\Source\Freecell-Solitaire\FreeCell\bin\Debug\Card1.exe
+D:\Dev\Source\Freecell-Solitaire\FreeCell\bin\Debug\Card1.pdb
+D:\Dev\Source\Freecell-Solitaire\FreeCell\obj\Debug\FreeCell.csproj.AssemblyReference.cache
+D:\Dev\Source\Freecell-Solitaire\FreeCell\obj\Debug\FreeCell.csproj.SuggestedBindingRedirects.cache
+D:\Dev\Source\Freecell-Solitaire\FreeCell\obj\Debug\FreeCell.MainForm.resources
+D:\Dev\Source\Freecell-Solitaire\FreeCell\obj\Debug\Card1.Properties.Resources.resources
+D:\Dev\Source\Freecell-Solitaire\FreeCell\obj\Debug\FreeCell.csproj.GenerateResource.cache
+D:\Dev\Source\Freecell-Solitaire\FreeCell\obj\Debug\FreeCell.csproj.CoreCompileInputs.cache
+D:\Dev\Source\Freecell-Solitaire\FreeCell\obj\Debug\Card1.exe.manifest
+D:\Dev\Source\Freecell-Solitaire\FreeCell\obj\Debug\Card1.application
+D:\Dev\Source\Freecell-Solitaire\FreeCell\obj\Debug\Card1.exe
+D:\Dev\Source\Freecell-Solitaire\FreeCell\obj\Debug\Card1.pdb

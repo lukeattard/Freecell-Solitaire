@@ -7,7 +7,8 @@ using System.Windows.Forms;
 
 namespace FreeCell
 {
-    public class HomeCellCardPanel : CardPanel
+    // Home Cell Cards are the final location of the cards starting from Ace to King of each suite
+    public class HomeCellCardPanel : GamePanel
     {
     }
 }

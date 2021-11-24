@@ -1,11 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+
 
 namespace FreeCell
 {
+// TODO Unsure why this is a class on its own, maybe as a sub class in cards? I think it would be best just to have this as part of the initialation of the card class.
     public static class ShuffleExtension
     {
         public static void Shuffle<T>(this IList<T> list, int seed)

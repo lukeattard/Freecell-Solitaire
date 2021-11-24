@@ -3,16 +3,13 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using System.Windows.Forms;
-using System.Drawing;
 
 namespace FreeCell
 {
-    public class CardMove : System.Windows.Forms.GroupBox
+    public class CardMove 
     {
         private int cardIndex;
         private int cardLocation;
-        private string cardIndexAndLocation;
         private string card1;
         private string card2;
         string cardPanel;
@@ -27,7 +24,9 @@ namespace FreeCell
 
             // TODO: Add any initialization after the InitForm call
 
-            this.Invalidate();
+            // Removed the class call for forms so i could remove this useless call.
+
+      
         }
 
         /// <summary>
@@ -37,14 +36,6 @@ namespace FreeCell
         {
             this.cardIndex = cardIndex;
             this.cardLocation = cardLocation;
-        }
-
-        /// <summary>
-        /// Function that takes card index within the list and the card location where it has been placed as a string
-        /// </summary>
-        public CardMove(string cardIndexAndLocation)
-        {
-            this.cardIndexAndLocation = cardIndexAndLocation;
         }
 
         /// <summary>
