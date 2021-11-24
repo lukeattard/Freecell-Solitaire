@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\FreeCell"
   ],
-  "SelectedNode": "\\FreeCell.sln",
+  "SelectedNode": "\\FreeCell\\Card.cs",
   "PreviewInSolutionExplorer": false
 }
